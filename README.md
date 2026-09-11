@@ -13,8 +13,11 @@ AI-портфель: NVIDIA, Microsoft, Broadcom
 - Комиссии/налоги: не учитываются
 ## Метрики
 Доходность: Cumulative Total Return, CAGR
+
 Риск: 90-day Rolling Volatility, Max Drawdown, Recovery Time
+
 Доходность/риск: Sharpe, Sortino
+
 Диверсификация: корреляция активов
 ## Стек
 Python (Pandas, NumPy, Plotly.Express, yfinance), DuckDB.
